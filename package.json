@@ -55,7 +55,7 @@
 		"ajv-formats": "^2.1.1",
 		"commander": "^12.0.0",
 		"cspell-lib": "^9.0.1",
-		"esbuild": "^0.20.1",
+		"esbuild": "^0.25.0",
 		"eslint": "^9.19.0",
 		"handlebars": "^4.7.8",
 		"http-server": "^14.1.1",
