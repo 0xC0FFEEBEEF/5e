@@ -1,4 +1,4 @@
-name = "5etools"
+name = "5e"
 main = "worker.js"
 compatibility_date = "2024-10-01"
 
