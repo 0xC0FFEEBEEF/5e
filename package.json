@@ -57,7 +57,7 @@
 		"ajv-formats": "^2.1.1",
 		"commander": "^12.0.0",
 		"cspell-lib": "^9.0.1",
-		"esbuild": "^0.20.1",
+		"esbuild": "^0.27.2",
 		"eslint": "^9.19.0",
 		"handlebars": "^4.7.8",
 		"http-server": "^14.1.1",
@@ -73,7 +73,7 @@
 		"stylelint-config-standard-scss": "^13.0.0",
 		"tinybench": "^6.0.0",
 		"workbox-cli": "^7.1.0",
-		"wrangler": "^3.0.0"
+		"wrangler": "^4.59.1"
 	},
 	"bugs": {
 		"url": "https://github.com/5etools-mirror-3/5etools-src/issues"
