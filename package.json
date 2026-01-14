@@ -71,7 +71,8 @@
 		"stylelint": "^16.2.1",
 		"stylelint-config-standard-scss": "^13.0.0",
 		"tinybench": "^6.0.0",
-		"workbox-cli": "^7.1.0"
+		"workbox-cli": "^7.1.0",
+		"wrangler": "^3.0.0"
 	},
 	"bugs": {
 		"url": "https://github.com/5etools-mirror-3/5etools-src/issues"
