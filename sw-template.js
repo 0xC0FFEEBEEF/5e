@@ -332,7 +332,7 @@ const runtimeManifest = new Map(self.__WB_RUNTIME_MANIFEST.map(
 		revision,
 	]) =>
 		[
-			`${self.location.origin}/${route}`,
+			new URL(route, self.registration.scope).toString(),
 			revision,
 		],
 ));
