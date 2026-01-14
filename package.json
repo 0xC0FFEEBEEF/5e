@@ -36,6 +36,7 @@
 		"build": "npm run clean-jsons && npm run gen && npm run build:css && npm run build:sw:prod",
 		"preversion": "npm test",
 		"version": "node node/version-bump.js",
+		"serve": "npm run serve:dev",
 		"serve:dev": "http-server -c-1 --cors --port 5050",
 		"serve:dev:tls": "http-server -c-1 --cors --port 5051 --tls --cert certs-dev-only/throwaway-cert.pem --key certs-dev-only/throwaway-key.pem",
 		"spellcheck:check-data": "echo \"This can take a few minutes.\" && npx cspell --no-progress --show-context --show-suggestions \"data/**/*.json\"",
@@ -70,7 +71,8 @@
 		"stylelint": "^16.2.1",
 		"stylelint-config-standard-scss": "^13.0.0",
 		"tinybench": "^6.0.0",
-		"workbox-cli": "^7.1.0"
+		"workbox-cli": "^7.1.0",
+		"wrangler": "^3.0.0"
 	},
 	"bugs": {
 		"url": "https://github.com/5etools-mirror-3/5etools-src/issues"
