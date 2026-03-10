@@ -68,7 +68,7 @@
 		"readline-sync": "^1.4.10",
 		"sass": "^1.71.1",
 		"sharp": "^0.33.2",
-		"simple-git": "^3.22.0",
+		"simple-git": "^3.32.3",
 		"stylelint": "^16.2.1",
 		"stylelint-config-standard-scss": "^13.0.0",
 		"tinybench": "^6.0.0",
